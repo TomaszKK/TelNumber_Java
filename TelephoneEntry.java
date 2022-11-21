@@ -1,4 +1,3 @@
-
 abstract class TelephoneEntry{
     protected String name;
     protected Address address;

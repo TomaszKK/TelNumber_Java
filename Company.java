@@ -1,4 +1,3 @@
-
 class Company extends TelephoneEntry{
 
     public Company(String name, String street, String city, String countryCode, String localNumber) {
